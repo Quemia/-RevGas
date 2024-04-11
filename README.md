@@ -11,7 +11,7 @@
   Text Editor
 ```
 
-### Criando o Banco de Dados
+### Criando o Banco de Dados :hammer:
 
   Você deve abrir o script revGas.sql e executá-lo no workbench ou outra ferramenta de design de banco de dados que suporte o MYSQL.
 
@@ -38,7 +38,7 @@ então você instalará os pacotes necessários e executará o código:
   $ npm run dev
 ```
 
-### Utilizando o Insomnia
+### Utilizando o Insomnia :paperclip:
 
 Você precisa criar uma nova *Collection*, depois criar dois métodos do tipo *GET*
 
