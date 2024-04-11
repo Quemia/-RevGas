@@ -42,10 +42,15 @@ então você instalará os pacotes necessários e executará o código:
 
 Você precisa criar uma nova *Collection*, depois criar dois métodos do tipo *GET*
 
-```shell
-    URL de Listagem de todos os bancos: localhost:3001
+URL de Listagem de todos os bancos:
 
-    URL de Listagem de um banco específico: localhost:3001/1 ou localhost:3001/75
+```shell
+  localhost:3001
+```
+URL de Listagem de um banco específico:
+
+```shell
+   localhost:3001/1 ou localhost:3001/75
 ```
 
 ### Author :black_nib:
