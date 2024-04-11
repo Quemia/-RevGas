@@ -26,6 +26,8 @@ O primeiro passo é baixar o repositório na sua máquina com git ou em arquivo 
   $ git clone git@github.com:Quemia/RevGas.git
 
   $ cd RevGas
+
+  $ cd API
 ```
 
 então você instalará os pacotes necessários e executará o código:
