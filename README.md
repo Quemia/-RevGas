@@ -35,7 +35,7 @@ então você instalará os pacotes necessários e executará o código:
 ```shell
   $ npm install
 
-  $ git npm run dev
+  $ npm run dev
 ```
 
 
